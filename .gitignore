@@ -1,0 +1,39 @@
+# Carpeta oculta de Visual Studio
+.vs/
+
+# Archivos de usuario y configuración local
+*.user
+*.suo
+*.sln.docstates
+
+# Archivos de compilación y resultados
+bin/
+obj/
+TestResults/
+*.log
+*.tmp
+*.cache
+*.dbmdl
+*.pdb
+*.exe
+*.dll
+
+# Archivos de entorno y publicación
+.env
+*.Publish.xml
+publish/
+
+# Archivos de paquetes NuGet
+*.nupkg
+packages/
+*.snk
+
+# Archivos del IDE y de respaldo
+_UpgradeReport_Files/
+Backup*/
+ipch/
+
+# Configuraciones específicas de proyecto
+*.csproj.user
+*.settings
+*.config
