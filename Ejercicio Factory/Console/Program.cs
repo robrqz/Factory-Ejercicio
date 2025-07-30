@@ -126,7 +126,7 @@ public class Program
                         break;
                     }
 
-                    //formatt
+                    //format
                     string Format;
                     bool ValidFormat = false;
                     do
