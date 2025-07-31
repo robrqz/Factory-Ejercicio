@@ -25,3 +25,13 @@ C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Facto
 C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\obj\Debug\net8.0\Ejercicio Factory.dll
 C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\obj\Debug\net8.0\refint\Ejercicio Factory.dll
 C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\obj\Debug\net8.0\Ejercicio Factory.pdb
+C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\bin\Debug\net8.0\Ejercicio Factory.exe
+C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\bin\Debug\net8.0\Ejercicio Factory.deps.json
+C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\bin\Debug\net8.0\Ejercicio Factory.runtimeconfig.json
+C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\bin\Debug\net8.0\Ejercicio Factory.dll
+C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\bin\Debug\net8.0\Ejercicio Factory.pdb
+C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\obj\Debug\net8.0\Ejercici.C26458CD.Up2Date
+C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\obj\Debug\net8.0\Ejercicio Factory.genruntimeconfig.cache
+C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\obj\Debug\net8.0\ref\Ejercicio Factory.dll

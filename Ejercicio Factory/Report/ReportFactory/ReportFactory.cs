@@ -11,31 +11,26 @@ using Ejercicio_Factory.Report.EnumReport;
 using Ejercicio_Factory.Report.InterfaceReportFormatter;
 using Ejercicio_Factory.Report.ReportStrategy;
 
-
 namespace Ejercicio_Factory.Report.ReportFactory
 {
     public class ReportFactory
     {
-        private readonly IServiceProvider _provider;
+        private readonly IReportFormatter formatter;
 
-        public ReportFactory(IServiceProvider provider)
+        public ReportFactory(IReportFormatter formatter)
         {
-            _provider = provider;
+            this.formatter = formatter;
         }
 
-        public StrategyReport CreateReport(ReportEnum type)
+        public IReportGenerator CreateReportGenerator(ReportEnum format)
         {
-            IReportFormatter formatter = type switch
+            return format switch
             {
-                ReportEnum.PDF => _provider.GetRequiredService<PDFReportGenerator>(),
-                ReportEnum.CSV => _provider.GetRequiredService<CSVReportGenerator>(),
-                ReportEnum.Excel => _provider.GetRequiredService<EXCELReportGenerator>(),
-                _ => throw new ArgumentException($"Tipo de reporte desconocido: {type}")
+                ReportEnum.PDF=> new PDFReportGenerator(formatter),
+                ReportEnum.CSV=> new CSVReportGenerator(formatter),
+                ReportEnum.EXCEL => new EXCELReportGenerator(formatter),
+                _ => throw new NotSupportedException($"Formato '{format}' no soportado.")
             };
-
-            return new StrategyReport(formatter);
         }
     }
-
-
 }

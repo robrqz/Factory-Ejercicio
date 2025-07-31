@@ -3,12 +3,19 @@ using Ejercicio_Factory.Report.InterfaceReportGenerator;
 using Ejercicio_Factory.Report.InterfaceReportService;
 using Ejercicio_Factory.Report.ReportFactory;
 using Ejercicio_Factory.Report.ReportGeneratorTypes.CSV;
+using Ejercicio_Factory.Report.ReportGeneratorTypes.EXCEL;
+using Ejercicio_Factory.Report.ReportGeneratorTypes.PDF;
 using Ejercicio_Factory.Report.ReportService;
 using Ejercicio_Factory.Sales.InterfaceSalesService;
 using Ejercicio_Factory.Sales.SalesService;
 using Ejercicio_Factory.UniversalHelper;
 using Ejercicio_Factory.Ventas.SalesEntity;
 using Microsoft.Extensions.DependencyInjection;
+using Ejercicio_Factory.Report.EnumReport;
+using Ejercicio_Factory.Report.InterfaceReportFormatter;
+using Ejercicio_Factory.Report.ReportStrategy;
+using Ejercicio_Factory.Report.InterfaceReportFormatter;
+
 
 public class Program
 {
@@ -19,6 +26,7 @@ public class Program
         serverProvider.AddSingleton<IReportService, ReportService>();
         serverProvider.AddScoped<ISalesService, SalesService>();
         serverProvider.AddSingleton<ReportFactory>();
+        serverProvider.AddSingleton<IReportFormatter, StrategyReport>();
 
         var Provider = serverProvider.BuildServiceProvider();
 
@@ -117,7 +125,7 @@ public class Program
                     break;
                 case 2:
 
-                    IReportGenerator generador = null;
+                    IReportGenerator generator = null;
 
                     var allSales = SalesService.GetSalesList();
                     if (!allSales.Any())
@@ -129,6 +137,8 @@ public class Program
                     }
 
                     //format
+                    IReportFormatter formatter = new StrategyReport();
+                    ReportEnum selectedFormat;
                     string Format;
                     bool ValidFormat = false;
 
@@ -145,17 +155,23 @@ public class Program
                         switch (Format)
                         {
                             case "1":
-                                generador = reportFactory.CreateReportGenerator("PDF");
+                                selectedFormat = ReportEnum.PDF;
+                                generator = new PDFReportGenerator(formatter);
                                 ValidFormat = true;
                                 break;
                             case "2":
-                                generador = reportFactory.CreateReportGenerator("CSV");
+                                selectedFormat = ReportEnum.CSV;
+                                generator = new CSVReportGenerator(formatter);
                                 ValidFormat = true;
                                 break;
                             case "3":
-                                generador = reportFactory.CreateReportGenerator("EXCEL");
+                                selectedFormat = ReportEnum.EXCEL;
+                                generator = new EXCELReportGenerator(formatter);
                                 ValidFormat = true;
                                 break;
+
+
+
                             default:
                                 Console.ForegroundColor = ConsoleColor.Red;
                                 Console.WriteLine("Formato no válido. Seleccione 1, 2 o 3.");
@@ -170,9 +186,9 @@ public class Program
 
 
 
-                    var ultimaVenta = allSales.Last();
+                    var lastSale = allSales.Last();
 
-                    var reporteGenerado = ReportService.ReportCreator(ultimaVenta, generador);
+                    var reporteGenerado = ReportService.ReportCreator(lastSale, generator);
 
                     break;
                 case 3:

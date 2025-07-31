@@ -2,13 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\Ejercicio Factory",
-    "\\Ejercicio Factory\\Console",
     "\\Ejercicio Factory\\Report",
-    "\\Ejercicio Factory\\Report\\IReportGenerator",
-    "\\Ejercicio Factory\\Report\\ReportFactory",
+    "\\Ejercicio Factory\\Report\\Interfaces",
+    "\\Ejercicio Factory\\Report\\Interfaces\\IReportFormatter",
+    "\\Ejercicio Factory\\Report\\Interfaces\\IReportGenerator",
+    "\\Ejercicio Factory\\Report\\Interfaces\\IReportService",
     "\\Ejercicio Factory\\Report\\ReportGeneratorTypes",
-    "\\Ejercicio Factory\\Report\\ReportGeneratorTypes\\EXCEL",
-    "\\Ejercicio Factory\\Report\\ReportGeneratorTypes\\PDF"
+    "\\Ejercicio Factory\\Report\\ReportService",
+    "\\Ejercicio Factory\\Report\\StrategyReport"
   ],
   "SelectedNode": "\\Ejercicio Factory\\Console\\Program.cs",
   "PreviewInSolutionExplorer": false
