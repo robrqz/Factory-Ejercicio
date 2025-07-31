@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Ejercicio Factory",
+    "\\Ejercicio Factory\\Console",
     "\\Ejercicio Factory\\Report",
     "\\Ejercicio Factory\\Report\\Interfaces",
-    "\\Ejercicio Factory\\Report\\Interfaces\\IReportFormatter",
     "\\Ejercicio Factory\\Report\\Interfaces\\IReportGenerator",
     "\\Ejercicio Factory\\Report\\Interfaces\\IReportService",
     "\\Ejercicio Factory\\Report\\ReportGeneratorTypes",
