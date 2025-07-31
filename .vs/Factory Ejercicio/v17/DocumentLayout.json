@@ -1,7 +1,56 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Console\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio Factory\\Console\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\ReportFactory\\ReportFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio Factory\\Report\\ReportFactory\\ReportFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\ReportGeneratorTypes\\EXCEL\\EXCELReportGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio Factory\\Report\\ReportGeneratorTypes\\EXCEL\\EXCELReportGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\ReportGeneratorTypes\\CSV\\CSVReportGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio Factory\\Report\\ReportGeneratorTypes\\CSV\\CSVReportGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\ReportGeneratorTypes\\PDF\\PDFReportGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio Factory\\Report\\ReportGeneratorTypes\\PDF\\PDFReportGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\StrategyReport\\StrategyReport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio Factory\\Report\\StrategyReport\\StrategyReport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\ReportService\\ReportService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio Factory\\Report\\ReportService\\ReportService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\ReportENUM\\ReportEnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio Factory\\Report\\ReportENUM\\ReportEnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\Interfaces\\IReportService\\IReportService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio Factory\\Report\\Interfaces\\IReportService\\IReportService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\Interfaces\\IReportGenerator\\IReportGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio Factory\\Report\\Interfaces\\IReportGenerator\\IReportGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\Interfaces\\IReportFormatter\\IReportFormatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio Factory\\Report\\Interfaces\\IReportFormatter\\IReportFormatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +58,182 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Console\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio Factory\\Console\\Program.cs",
+              "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Console\\Program.cs",
+              "RelativeToolTip": "Ejercicio Factory\\Console\\Program.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAhwJsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:09:27.733Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportFactory.cs",
+              "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\ReportFactory\\ReportFactory.cs",
+              "RelativeDocumentMoniker": "Ejercicio Factory\\Report\\ReportFactory\\ReportFactory.cs",
+              "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\ReportFactory\\ReportFactory.cs",
+              "RelativeToolTip": "Ejercicio Factory\\Report\\ReportFactory\\ReportFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:49:14.708Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EXCELReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\ReportGeneratorTypes\\EXCEL\\EXCELReportGenerator.cs",
+              "RelativeDocumentMoniker": "Ejercicio Factory\\Report\\ReportGeneratorTypes\\EXCEL\\EXCELReportGenerator.cs",
+              "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\ReportGeneratorTypes\\EXCEL\\EXCELReportGenerator.cs",
+              "RelativeToolTip": "Ejercicio Factory\\Report\\ReportGeneratorTypes\\EXCEL\\EXCELReportGenerator.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:17:46.241Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\Interfaces\\IReportGenerator\\IReportGenerator.cs",
+              "RelativeDocumentMoniker": "Ejercicio Factory\\Report\\Interfaces\\IReportGenerator\\IReportGenerator.cs",
+              "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\Interfaces\\IReportGenerator\\IReportGenerator.cs",
+              "RelativeToolTip": "Ejercicio Factory\\Report\\Interfaces\\IReportGenerator\\IReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:18:19.431Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PDFReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\ReportGeneratorTypes\\PDF\\PDFReportGenerator.cs",
+              "RelativeDocumentMoniker": "Ejercicio Factory\\Report\\ReportGeneratorTypes\\PDF\\PDFReportGenerator.cs",
+              "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\ReportGeneratorTypes\\PDF\\PDFReportGenerator.cs",
+              "RelativeToolTip": "Ejercicio Factory\\Report\\ReportGeneratorTypes\\PDF\\PDFReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:17:34.688Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CSVReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\ReportGeneratorTypes\\CSV\\CSVReportGenerator.cs",
+              "RelativeDocumentMoniker": "Ejercicio Factory\\Report\\ReportGeneratorTypes\\CSV\\CSVReportGenerator.cs",
+              "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\ReportGeneratorTypes\\CSV\\CSVReportGenerator.cs",
+              "RelativeToolTip": "Ejercicio Factory\\Report\\ReportGeneratorTypes\\CSV\\CSVReportGenerator.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:14:42.028Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IReportFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\Interfaces\\IReportFormatter\\IReportFormatter.cs",
+              "RelativeDocumentMoniker": "Ejercicio Factory\\Report\\Interfaces\\IReportFormatter\\IReportFormatter.cs",
+              "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\Interfaces\\IReportFormatter\\IReportFormatter.cs",
+              "RelativeToolTip": "Ejercicio Factory\\Report\\Interfaces\\IReportFormatter\\IReportFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T13:00:58.577Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\Interfaces\\IReportService\\IReportService.cs",
+              "RelativeDocumentMoniker": "Ejercicio Factory\\Report\\Interfaces\\IReportService\\IReportService.cs",
+              "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\Interfaces\\IReportService\\IReportService.cs",
+              "RelativeToolTip": "Ejercicio Factory\\Report\\Interfaces\\IReportService\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T13:37:11.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportEnum.cs",
+              "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\ReportENUM\\ReportEnum.cs",
+              "RelativeDocumentMoniker": "Ejercicio Factory\\Report\\ReportENUM\\ReportEnum.cs",
+              "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\ReportENUM\\ReportEnum.cs",
+              "RelativeToolTip": "Ejercicio Factory\\Report\\ReportENUM\\ReportEnum.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T13:20:44.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StrategyReport.cs",
+              "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\StrategyReport\\StrategyReport.cs",
+              "RelativeDocumentMoniker": "Ejercicio Factory\\Report\\StrategyReport\\StrategyReport.cs",
+              "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\StrategyReport\\StrategyReport.cs",
+              "RelativeToolTip": "Ejercicio Factory\\Report\\StrategyReport\\StrategyReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T12:57:23.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVEhLtZVdTsJAFIWroTyDK3ELJuCbsA1ZhQRFRETkV6yV8AAsgAI\u002BugW3wAr0RUop7Tj3dmagtLXFhJOc3mEynXu\u002BSWmlg4oQcsSGqOFwSKcIzAcY7rFZdeZkWf42DOMsl7v8ZNsEazAYEMuyXF5zr7nXWG3bJqPRiMznc6Kqb1\u002BtdueUbePSMasoSASiN0sW2AJbwrSRMKwBJZNJKZVOJeJx\u002BaPRbHma\u002BDbAqzOMpBPa5DydxiZsSijGKoo30MZjrH8pm81iVRQFKygmxxNs6K9\u002Bv4/nvlqZ1CticBuOl8IGWS4NogsviWmuSe2p7uH2EMAKTQsn2FUmkxUnEKher4dPjH9ymjogva47BNXHWhgBXCRpomnOxB6KRKCqKhJsznoneUD6BSOoPFSjEUwnByJQlFf8l7rTO6ndyalZcm7TNEn5vhJG4CD8h\u002BAikwkn6HZf8F3jSSu8OfNt/yx0sqIEpbtyOAGsmE4nzsQeikTQ7jwTkxKItCyxX2qenBsIirelcAJAmB2KoNlq4/Psl1Z4K/UuQeGmGIGA6n02xbqPgIBuwH4FqN5o4vMMKYOSBhkI8oVrTwfPBwdWxOQYWt7D/P5duT768D7HJhFtU9MBVj5XyF\u002B59jywJOkX7ucXnGOxDX8AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-30T15:52:23.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\ReportService\\ReportService.cs",
+              "RelativeDocumentMoniker": "Ejercicio Factory\\Report\\ReportService\\ReportService.cs",
+              "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio\\Ejercicio Factory\\Report\\ReportService\\ReportService.cs",
+              "RelativeToolTip": "Ejercicio Factory\\Report\\ReportService\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:24:22.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

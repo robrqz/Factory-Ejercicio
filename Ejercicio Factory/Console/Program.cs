@@ -18,11 +18,13 @@ public class Program
 
         serverProvider.AddSingleton<IReportService, ReportService>();
         serverProvider.AddScoped<ISalesService, SalesService>();
+        serverProvider.AddSingleton<ReportFactory>();
 
         var Provider = serverProvider.BuildServiceProvider();
 
         var SalesService = Provider.GetRequiredService<ISalesService>();
         var ReportService = Provider.GetRequiredService<IReportService>();
+        var reportFactory = Provider.GetRequiredService<ReportFactory>();
 
         int MenuOption;
         do
@@ -129,6 +131,7 @@ public class Program
                     //format
                     string Format;
                     bool ValidFormat = false;
+
                     do
                     {
                         Console.WriteLine("---------------------------------------------");
@@ -138,20 +141,19 @@ public class Program
                         Console.WriteLine("3. EXCEL");
 
                         Format = Console.ReadLine();
-                       
 
                         switch (Format)
                         {
                             case "1":
-                                generador = ReportFactory.CreateReportGenerator("pdf");
+                                generador = reportFactory.CreateReportGenerator("PDF");
                                 ValidFormat = true;
                                 break;
                             case "2":
-                                generador = ReportFactory.CreateReportGenerator("csv");
+                                generador = reportFactory.CreateReportGenerator("CSV");
                                 ValidFormat = true;
                                 break;
                             case "3":
-                                generador = ReportFactory.CreateReportGenerator("excel");
+                                generador = reportFactory.CreateReportGenerator("EXCEL");
                                 ValidFormat = true;
                                 break;
                             default:
@@ -164,8 +166,9 @@ public class Program
                                 break;
                         }
 
+                    } while (!ValidFormat);
 
-                    } while (ValidFormat == false);
+
 
                     var ultimaVenta = allSales.Last();
 

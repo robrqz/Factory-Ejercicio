@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Ejercicio Factory",
+    "\\Ejercicio Factory\\Console",
+    "\\Ejercicio Factory\\Report",
+    "\\Ejercicio Factory\\Report\\IReportGenerator",
+    "\\Ejercicio Factory\\Report\\ReportFactory",
+    "\\Ejercicio Factory\\Report\\ReportGeneratorTypes",
+    "\\Ejercicio Factory\\Report\\ReportGeneratorTypes\\EXCEL",
+    "\\Ejercicio Factory\\Report\\ReportGeneratorTypes\\PDF"
   ],
-  "SelectedNode": "\\C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\Factory Ejercicio",
+  "SelectedNode": "\\Ejercicio Factory\\Console\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

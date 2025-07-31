@@ -16,3 +16,12 @@ C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Ejercicio Factory\Ej
 C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Ejercicio Factory\Ejercicio Factory\obj\Debug\net8.0\Ejercicio Factory.pdb
 C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Ejercicio Factory\Ejercicio Factory\obj\Debug\net8.0\Ejercicio Factory.genruntimeconfig.cache
 C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Ejercicio Factory\Ejercicio Factory\obj\Debug\net8.0\ref\Ejercicio Factory.dll
+C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\obj\Debug\net8.0\Ejercicio Factory.csproj.AssemblyReference.cache
+C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\obj\Debug\net8.0\Ejercicio Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\obj\Debug\net8.0\Ejercicio Factory.AssemblyInfoInputs.cache
+C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\obj\Debug\net8.0\Ejercicio Factory.AssemblyInfo.cs
+C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\obj\Debug\net8.0\Ejercicio Factory.csproj.CoreCompileInputs.cache
+C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\obj\Debug\net8.0\Ejercicio Factory.sourcelink.json
+C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\obj\Debug\net8.0\Ejercicio Factory.dll
+C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\obj\Debug\net8.0\refint\Ejercicio Factory.dll
+C:\Users\roberto.panario2_kli\Documents\GitHub\Factory Ejercicio\Ejercicio Factory\obj\Debug\net8.0\Ejercicio Factory.pdb
